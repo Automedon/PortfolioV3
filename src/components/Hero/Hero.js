@@ -13,13 +13,15 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle>
         Welcome To <br />
-        My Personal Portfolio
+        Automedon Portfolio
       </SectionTitle>
       <SectionText>
         I am a Senior Software Engineer with a focus on Frontend with
         React/TypeScript.
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
+      <Button
+        onClick={() => (window.location = "https://github.com/Automedon")}
+      >
         Learn More
       </Button>
     </LeftSection>
