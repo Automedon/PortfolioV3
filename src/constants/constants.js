@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Frontend side consisting from React and Redux for saving you memories" +
       " with images, post, tag and count of likes",
-    image: "/images/Memories.png",
+    image: "/images/Memories.webp",
     tags: ["React", "Redux", "Redux-Thunk", "axios"],
     source: "https://github.com/Automedon/mern-front",
     visit: "https://wizardly-curran-e24c83.netlify.app/",
@@ -15,7 +15,7 @@ export const projects = [
     description:
       "Backend side of memories application where we can see how" +
       " to manipulate data on the server",
-    image: "/images/node.png",
+    image: "/images/node.webp",
     tags: ["React", "Node", "Express", "MongoDB", "TS", "Mongoose"],
     source: "https://github.com/Automedon/mern-back",
     visit: "https://memories-automedon.herokuapp.com/",
@@ -24,7 +24,7 @@ export const projects = [
   {
     title: "Pokedx",
     description: "Pokedx application for search pokemons and their properties",
-    image: "/images/Pokedx.png",
+    image: "/images/Pokedx.webp",
     tags: ["React", "MobX", "AntD", "Axios"],
     source: "https://github.com/Automedon/Pokedx",
     visit: "https://automedon.github.io/Pokedx/",
@@ -35,7 +35,7 @@ export const projects = [
     description:
       "With this Application you can search news with your voice" +
       " and listen found news",
-    image: "/images/Alan.png",
+    image: "/images/Alan.webp",
     tags: ["React", "Alan-Ai", "Alan-Voice", "Material-Ui"],
     source: "https://github.com/Automedon/Voice-News",
     visit: "https://automedon.github.io/Voice-News/",
@@ -44,7 +44,7 @@ export const projects = [
   {
     title: "E-Commerce-Shop",
     description: "This is a code repository for an example E-Commerce-Shop",
-    image: "/images/E-Shop.png",
+    image: "/images/E-Shop.webp",
     tags: ["React"],
     source: "https://github.com/Automedon/E-Commrece-Shop",
     visit: "https://automedon.github.io/E-Commrece-Shop/",
@@ -54,7 +54,7 @@ export const projects = [
     title: "Example of Code FullStack #1",
     description:
       "This is a code repository for an example of code FullStack" + " #1",
-    image: "/images/CarYard.png",
+    image: "/images/CarYard.webp",
     tags: ["React", "NextJS", "Apollo", "Graphql", "TS", "Mongoose", "Formik"],
     source: "https://github.com/Automedon/ExampleOfCode",
     visit: "https://car-yard.vercel.app/",
@@ -66,7 +66,7 @@ export const projects = [
       "This is a code repository for an example of code FullStack" +
       " #2" +
       " with Authorization and optimizations",
-    image: "/images/Code2.png",
+    image: "/images/Code2.webp",
     tags: ["React", "NextJS", "Apollo", "TS", "Sqlite3", "Formik"],
     source: "https://github.com/Automedon/nextjs-apollo-sqlite",
     visit: "https://github.com/Automedon/nextjs-apollo-sqlite",
@@ -78,7 +78,7 @@ export const projects = [
       "This is a code repository for an example of code FullStack" +
       " #3" +
       " with CRUD",
-    image: "/images/Code3.png",
+    image: "/images/Code3.webp",
     tags: ["React", "NextJS", "Apollo", "Mongoose", "Formik", "Material-Ui"],
     source: "https://github.com/Automedon/Nextjs-Apollo-Material",
     visit: "https://nextjs-apollo-material.vercel.app/",
@@ -90,7 +90,7 @@ export const projects = [
       "This is a code repository for an example of code FullStack" +
       " #4" +
       " with Authorization on JWT token",
-    image: "/images/Code4.png",
+    image: "/images/Code4.webp",
     tags: ["React", "Apollo", "Graphql", "Mongoose", "JWT", "Express"],
     source: "https://github.com/Automedon/typeJWT",
     visit: "https://github.com/Automedon/typeJWT",
@@ -102,7 +102,7 @@ export const projects = [
       "This is a code repository for an example of code FullStack" +
       " #1" +
       " with graphql storage on the client",
-    image: "/images/Pizza.png",
+    image: "/images/Pizza.webp",
     tags: ["React", "NextJS", "Apollo", "Graphql", "Formik", "Material-Ui"],
     source: "https://github.com/Automedon/Apollo-Nextjs-Typescript",
     visit: "https://automedon-pizza.vercel.app/",
@@ -114,7 +114,7 @@ export const projects = [
       "This is a code repository for an example of code FullStack" +
       " #2" +
       " with HugeDnDList where you can move one list under another ",
-    image: "/images/HugeDndList.png",
+    image: "/images/HugeDndList.webp",
     tags: ["React", "Antd"],
     source: "https://github.com/Automedon/HugeDnDList",
     visit: "https://automedon.github.io/HugeDnDList/",
@@ -123,7 +123,7 @@ export const projects = [
   {
     title: "Example of Code NestJS",
     description: "This is a code repository for an example of code NestJS",
-    image: "/images/Code.png",
+    image: "/images/Code.webp",
     tags: ["NestJS", "PG", "Bcryptjs", "RxJs", "Sequelize", "TS"],
     source: "https://github.com/Automedon/Nestjs-CodeExample",
     visit: "https://github.com/Automedon/Nestjs-CodeExample",
@@ -133,7 +133,7 @@ export const projects = [
     title: "React Tetris",
     description:
       "This is a code repository for the Tetris which is based on React",
-    image: "/images/Tetris.png",
+    image: "/images/Tetris.webp",
     tags: ["React", "TS", "Styled-Components"],
     source: "https://automedon.github.io/Tetris/",
     visit: "https://github.com/Automedon/Tetris",
@@ -142,7 +142,7 @@ export const projects = [
   {
     title: "React Calendar",
     description: "This is a code repository for React Calendar",
-    image: "/images/React-Calendar.png",
+    image: "/images/React-Calendar.webp",
     tags: ["React"],
     source: "https://github.com/Automedon/react-calendar",
     visit: "https://automedon.github.io/react-calendar/",
@@ -151,7 +151,7 @@ export const projects = [
   {
     title: "Simple React Cart",
     description: "This is a code repository for React Cart",
-    image: "/images/React-App.png",
+    image: "/images/React-App.webp",
     tags: ["React"],
     source: "https://github.com/Automedon/shop-React",
     visit: "https://automedon.github.io/shop-React/",
@@ -160,7 +160,7 @@ export const projects = [
   {
     title: "Tic-Toe",
     description: "This is a code repository for React based a Tic-Toe game",
-    image: "/images/TicToe.jpg",
+    image: "/images/TicToe.webp",
     tags: ["React", "Redux", "slick-carousel", "bootstrap"],
     source: "https://github.com/Automedon/React-Game",
     visit: "https://automedon.github.io/React-Game/",
@@ -169,7 +169,7 @@ export const projects = [
   {
     title: "Stopwatch",
     description: "This is a code repository for Stopwatch with React",
-    image: "/images/clock.png",
+    image: "/images/clock.webp",
     tags: ["React", "Redux"],
     source: "https://github.com/Automedon/Simple-Stopwatch",
     visit: "https://automedon.github.io/Simple-Stopwatch/",
@@ -178,7 +178,7 @@ export const projects = [
   {
     title: "Dynamic Page",
     description: "This is a code repository for a React dynamic page",
-    image: "/images/DynamicPage.png",
+    image: "/images/DynamicPage.webp",
     tags: ["React"],
     source: "https://github.com/Automedon/dynamicPage",
     visit: "https://automedon.github.io/dynamicPage/",
@@ -188,7 +188,7 @@ export const projects = [
     title: "Apex tracker",
     description:
       "With this application, you can see stats in the Apex game by ID on different game platforms",
-    image: "/images/Apex-Tracker.png",
+    image: "/images/Apex-Tracker.webp",
     tags: ["React", "Express", "Heroku"],
     source: "https://github.com/Automedon/apextracker",
     visit: "https://dry-crag-95171.herokuapp.com/",
@@ -199,7 +199,7 @@ export const projects = [
     description:
       "This is a code repository for React Redux-Saga example for" +
       " fetching images of dogs",
-    image: "/images/Dogs-Saga.png",
+    image: "/images/Dogs-Saga.webp",
     tags: ["React", "Redux", "Redux-Saga"],
     source: "https://github.com/Automedon/Dog-Saga",
     visit: "https://automedon.github.io/Dog-Saga/",
@@ -209,7 +209,7 @@ export const projects = [
     title: "React Calculator",
     description:
       "This is a code repository for React Calculator for internet tariffs",
-    image: "/images/InternetCalc.png",
+    image: "/images/InternetCalc.webp",
     tags: ["React", "Redux"],
     source: "https://github.com/Automedon/InternetCalc/blob/master/code.rar",
     visit: "https://automedon.github.io/InternetCalc/",
@@ -220,7 +220,7 @@ export const projects = [
     description:
       "This is a code repository for React Todo List in which you can edit" +
       " your goals and enable filters",
-    image: "/images/TodoList.png",
+    image: "/images/TodoList.webp",
     tags: ["React", "Redux"],
     source:
       "https://github.com/Automedon/Mega-no-todolist/blob/master/newTodo.rar",
@@ -230,7 +230,7 @@ export const projects = [
   {
     title: "My old Portfolio",
     description: "Old Portfolio Automedon V2",
-    image: "/images/Automedon-Portfolio.png",
+    image: "/images/Automedon-Portfolio.webp",
     tags: ["React", "Styled-Components", "NextJs"],
     source: "https://github.com/Automedon/Portfolio2",
     visit: "https://automedon.github.io/Portfolio2/",
@@ -241,7 +241,7 @@ export const projects = [
     description:
       "This is a code repository for learning with which verbs you need to" +
       " use Gerund or Infinitive",
-    image: "/images/Learn-English.png",
+    image: "/images/Learn-English.webp",
     tags: ["React"],
     source: "https://github.com/Automedon/Gerund-and-Infinitive",
     visit: "https://automedon.github.io/Gerund-and-Infinitive/",
@@ -250,7 +250,7 @@ export const projects = [
   {
     title: "Layout Merkury",
     description: "This is a code repository example of layout Merkury",
-    image: "/images/Merkury.png",
+    image: "/images/Merkury.webp",
     tags: ["React", "AntD", "Styled-Components"],
     source: "https://github.com/Automedon/Merkury",
     visit: "https://automedon.github.io/Merkury/",
@@ -261,7 +261,7 @@ export const projects = [
     description:
       "This is a code repository for game Count Down which I done" +
       " for one of the test tasks",
-    image: "/images/CountDown-App.png",
+    image: "/images/CountDown-App.webp",
     tags: ["React", "TS", "Redux"],
     source: "https://github.com/Automedon/CountDown",
     visit: "https://automedon.github.io/CountDown/",
@@ -272,7 +272,7 @@ export const projects = [
     description:
       "This is a code repository for Account which I done" +
       " for one of the test tasks",
-    image: "/images/Dashboard.png",
+    image: "/images/Dashboard.webp",
     tags: ["React", "Formik", "Redux", "Yup"],
     source: "https://automedon.github.io/DashBoard",
     visit: "https://github.com/Automedon/DashBoard",
@@ -283,7 +283,7 @@ export const projects = [
     description:
       "This is a code repository for which represent how you can create" +
       " photoshop clone by using CSS props",
-    image: "/images/PhotoShopClone.png",
+    image: "/images/PhotoShopClone.webp",
     tags: ["React"],
     source: "https://github.com/Automedon/Photoshop-Clone",
     visit: "https://automedon.github.io/Photoshop-Clone/",
@@ -294,7 +294,7 @@ export const projects = [
     description:
       "This is a code repository for which represent how you can create" +
       " piano",
-    image: "/images/Piano.png",
+    image: "/images/Piano.webp",
     tags: ["JavaScript", "CSS"],
     source: "https://github.com/Automedon/Piano",
     visit: "https://automedon.github.io/Piano/",
@@ -304,7 +304,7 @@ export const projects = [
     title: "Torronto Skate",
     description:
       "With this application you can skate places in Torrnonto on the Map",
-    image: "/images/Skate.png",
+    image: "/images/Skate.webp",
     tags: ["React", "react-map-gl"],
     source: "https://github.com/Automedon/Mapbox-Skate-Torronto",
     visit: "https://automedon.github.io/Mapbox-Skate-Torronto/",
@@ -313,7 +313,7 @@ export const projects = [
   {
     title: "Snake Game",
     description: "With this game you can play snake",
-    image: "/images/Snake.png",
+    image: "/images/Snake.webp",
     tags: ["JavaScript", "CSS"],
     source: "https://github.com/Automedon/Snake",
     visit: "https://automedon.github.io/Snake/",
@@ -323,7 +323,7 @@ export const projects = [
     title: "Card Quizzes Game",
     description:
       "With this game you can increase you knowledge about many" + " areas",
-    image: "/images/Quizzes.png",
+    image: "/images/Quizzes.webp",
     tags: ["React", "TS", "Axios"],
     source: "https://github.com/Automedon/Cards-Quizes",
     visit: "https://automedon.github.io/Cards-Quizes/",
@@ -332,7 +332,7 @@ export const projects = [
   {
     title: "Speed up your Typing",
     description: "With this game you can increase your speed typing",
-    image: "/images/Speed-Typing.png",
+    image: "/images/Speed-Typing.webp",
     tags: ["JavaScript", "CSS", "Fetch"],
     source: "https://github.com/Automedon/Speed-typing-random-quotes",
     visit: "https://automedon.github.io/Speed-typing-random-quotes/",
@@ -341,7 +341,7 @@ export const projects = [
   {
     title: "JavaScript Calculator",
     description: "You can use this calculator if you need to calculate numbers",
-    image: "/images/Calculator.png",
+    image: "/images/Calculator.webp",
     tags: ["JavaScript", "CSS", "Fetch"],
     source: "https://github.com/Automedon/JavaScript-Calculator",
     visit: "https://automedon.github.io/JavaScript-Calculator/",
@@ -350,7 +350,7 @@ export const projects = [
   {
     title: "Rock Paper Scissors",
     description: "Rock Paper Scissors game on React",
-    image: "/images/Rock.png",
+    image: "/images/Rock.webp",
     tags: ["React", "Styled-Components"],
     source: "https://github.com/Automedon/rockpaperscissors",
     visit: "https://automedon.github.io/rockpaperscissors/",
@@ -359,7 +359,7 @@ export const projects = [
   {
     title: "Price cards",
     description: "Layout example of price comparison cards",
-    image: "/images/Price-Comparison.png",
+    image: "/images/Price-Comparison.webp",
     tags: ["HTML", "CSS"],
     source: "https://github.com/Automedon/Price-Comparison-Design",
     visit: "https://automedon.github.io/Price-Comparison-Design/",
@@ -368,7 +368,7 @@ export const projects = [
   {
     title: "Simple Text Adventure Game",
     description: "You can play in text adventure game with buttons",
-    image: "/images/Adventure-Game.png",
+    image: "/images/Adventure-Game.webp",
     tags: ["HTML", "CSS", "JavaScript"],
     source: "https://github.com/Automedon/Text-Adventure-Game",
     visit: "https://automedon.github.io/Text-Adventure-Game/",
@@ -378,7 +378,7 @@ export const projects = [
     title: "Random Advice",
     description:
       "This application can give you advice if you struggle in" + " your life",
-    image: "/images/Advice.png",
+    image: "/images/Advice.webp",
     tags: ["React", "TS"],
     source: "https://github.com/Automedon/Random-Advice-for-a-better-life",
     visit: "https://automedon.github.io/Random-Advice-for-a-better-life/",
@@ -387,7 +387,7 @@ export const projects = [
   {
     title: "Food App Layout",
     description: "Example of Food App Layout adapted for small devices",
-    image: "/images/FoodApp.png",
+    image: "/images/FoodApp.webp",
     tags: ["React", "TS"],
     source: "https://github.com/Automedon/Random-Figma-Layout-1",
     visit: "https://automedon.github.io/Random-Figma-Layout-1/",
@@ -396,7 +396,7 @@ export const projects = [
   {
     title: "Site Layout #1",
     description: "Example of Site Layout #1 adapted for small devices",
-    image: "/images/Site.png",
+    image: "/images/Site.webp",
     tags: ["React", "TS"],
     source: "https://github.com/Automedon/Random-Figma-Layout-2",
     visit: "https://automedon.github.io/Random-Figma-Layout-2/",
@@ -405,7 +405,7 @@ export const projects = [
   {
     title: "Site Layout #2",
     description: "Example of Site Layout #2 adapted for small devices",
-    image: "/images/Startuprr.png",
+    image: "/images/Startuprr.webp",
     tags: ["React", "AntD", "Styled-Components"],
     source: "https://github.com/Automedon/Startuprr",
     visit: "https://automedon.github.io/Startuprr/",
@@ -414,7 +414,7 @@ export const projects = [
   {
     title: "Book and Come",
     description: "Example of cart and ordering from restaurant with React",
-    image: "/images/BookAndCome.png",
+    image: "/images/BookAndCome.webp",
     tags: ["React", "Recoil", "React-Router-Dom"],
     source: "https://github.com/Automedon/bookandcome",
     visit: "https://bookandcome.netlify.app/popular",
@@ -423,7 +423,7 @@ export const projects = [
   {
     title: "Codewars",
     description: "My solutions for Codewars",
-    image: "/images/CodeWards.png",
+    image: "/images/CodeWards.webp",
     tags: ["JavaScript"],
     source: "https://github.com/Automedon/Codewars",
     visit: "https://github.com/Automedon/Codewars",
@@ -432,7 +432,7 @@ export const projects = [
   {
     title: "cssbattle.dev",
     description: "My solutions for cssbattle.dev",
-    image: "/images/cssbattle.png",
+    image: "/images/cssbattle.webp",
     tags: ["CSS", "HTML"],
     source: "https://github.com/Automedon/cssbattle.dev",
     visit: "https://github.com/Automedon/cssbattle.dev",
