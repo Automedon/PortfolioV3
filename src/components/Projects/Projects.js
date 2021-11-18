@@ -20,6 +20,8 @@ import {
 } from "../../styles/GlobalComponents";
 import { projects } from "../../constants/constants";
 
+console.log(projects.length);
+
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />

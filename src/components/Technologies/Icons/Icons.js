@@ -16,7 +16,7 @@ const Icons = () => (
       {languagesIcons
         .sort((a, b) => a.title.localeCompare(b.title))
         .map(({ icon, title, href }) => (
-          <ListItem>
+          <ListItem key={title}>
             <a href={href}>
               <ListIcon src={icon} />
             </a>
@@ -33,7 +33,7 @@ const Icons = () => (
       {frontendIcons
         .sort((a, b) => a.title.localeCompare(b.title))
         .map(({ icon, title, href }) => (
-          <ListItem>
+          <ListItem key={title}>
             <a href={href}>
               <ListIcon src={icon} />
             </a>
@@ -50,7 +50,7 @@ const Icons = () => (
       {backendIcons
         .sort((a, b) => a.title.localeCompare(b.title))
         .map(({ icon, title, href }) => (
-          <ListItem>
+          <ListItem key={title}>
             <a href={href}>
               <ListIcon src={icon} />
             </a>
