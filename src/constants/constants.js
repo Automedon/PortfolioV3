@@ -1,5 +1,16 @@
 export const projects = [
   {
+    title: "Crypto App",
+    description:
+      "In this application you can check news about crypto-world and" +
+      " current exchanges",
+    image: "/images/Cryptoverse.webp",
+    tags: ["React", "Redux", "AntD"],
+    source: "https://github.com/Automedon/crypto-app",
+    visit: "https://automedon.github.io/crypto-app/",
+    id: 0,
+  },
+  {
     title: "MERN Fronted Memories",
     description:
       "Frontend side consisting from React and Redux for saving you memories" +
@@ -8,7 +19,7 @@ export const projects = [
     tags: ["React", "Redux", "Redux-Thunk", "axios"],
     source: "https://github.com/Automedon/mern-front",
     visit: "https://wizardly-curran-e24c83.netlify.app/",
-    id: 0,
+    id: 0.1,
   },
   {
     title: "MERN Backend Memories",
