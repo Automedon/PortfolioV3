@@ -11,6 +11,16 @@ export const projects = [
     id: 0,
   },
   {
+    title: "Real State App",
+    description:
+      "In this application, you can find an estate for buying or renting",
+    image: "/images/Real-Estate.webp",
+    tags: ["React", "NextJs"],
+    source: "https://github.com/Automedon/Real-Estate-App",
+    visit: "https://real-estate-app-automedon.vercel.app/",
+    id: 0.1,
+  },
+  {
     title: "MERN Fronted Memories",
     description:
       "Frontend side consisting from React and Redux for saving you memories" +
@@ -19,7 +29,7 @@ export const projects = [
     tags: ["React", "Redux", "Redux-Thunk", "axios"],
     source: "https://github.com/Automedon/mern-front",
     visit: "https://wizardly-curran-e24c83.netlify.app/",
-    id: 0.1,
+    id: 0.9,
   },
   {
     title: "MERN Backend Memories",
