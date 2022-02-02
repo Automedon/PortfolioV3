@@ -21,6 +21,17 @@ export const projects = [
     id: 0.1,
   },
   {
+    title: "Photo Share",
+    description:
+      "In this application, you can share your photo with your friends and" +
+      " search them by categories",
+    image: "/images/photoShare.webp",
+    tags: ["React", "Sanity"],
+    source: "https://github.com/Automedon/Social-Photo-Application",
+    visit: "https://photoautomedon.netlify.app/",
+    id: 0.2,
+  },
+  {
     title: "MERN Fronted Memories",
     description:
       "Frontend side consisting from React and Redux for saving you memories" +
