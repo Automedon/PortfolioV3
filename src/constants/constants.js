@@ -7,7 +7,6 @@ export const projects = [
     image: "/images/Cryptoverse.webp",
     tags: ["React", "Redux", "AntD"],
     source: "https://github.com/Automedon/crypto-app",
-    visit: "https://automedon.github.io/crypto-app/",
     id: 0
   },
   {
@@ -39,7 +38,6 @@ export const projects = [
     image: "/images/Memories.webp",
     tags: ["React", "Redux", "Redux-Thunk", "axios"],
     source: "https://github.com/Automedon/mern-front",
-    visit: "https://wizardly-curran-e24c83.netlify.app/",
     id: 0.9
   },
   {
@@ -50,7 +48,6 @@ export const projects = [
     image: "/images/node.webp",
     tags: ["React", "Node", "Express", "MongoDB", "TS", "Mongoose"],
     source: "https://github.com/Automedon/mern-back",
-    visit: "https://memories-automedon.herokuapp.com/",
     id: 1
   },
   {
@@ -70,7 +67,6 @@ export const projects = [
     image: "/images/Alan.webp",
     tags: ["React", "Alan-Ai", "Alan-Voice", "Material-Ui"],
     source: "https://github.com/Automedon/Voice-News",
-    visit: "https://automedon.github.io/Voice-News/",
     id: 1.11
   },
   {
@@ -79,7 +75,6 @@ export const projects = [
     image: "/images/E-Shop.webp",
     tags: ["React"],
     source: "https://github.com/Automedon/E-Commrece-Shop",
-    visit: "https://automedon.github.io/E-Commrece-Shop/",
     id: 1.2
   },
   {
@@ -167,8 +162,8 @@ export const projects = [
       "This is a code repository for the Tetris which is based on React",
     image: "/images/Tetris.webp",
     tags: ["React", "TS", "Styled-Components"],
-    source: "https://automedon.github.io/Tetris/",
-    visit: "https://github.com/Automedon/Tetris",
+    source: "https://github.com/Automedon/Tetris",
+    visit: "https://automedon.github.io/Tetris",
     id: 2
   },
   {
@@ -223,7 +218,6 @@ export const projects = [
     image: "/images/Apex-Tracker.webp",
     tags: ["React", "Express", "Heroku"],
     source: "https://github.com/Automedon/apextracker",
-    visit: "https://dry-crag-95171.herokuapp.com/",
     id: 6.1
   },
   {
@@ -339,7 +333,6 @@ export const projects = [
     image: "/images/Skate.webp",
     tags: ["React", "react-map-gl"],
     source: "https://github.com/Automedon/Mapbox-Skate-Torronto",
-    visit: "https://automedon.github.io/Mapbox-Skate-Torronto/",
     id: 16
   },
   {
@@ -449,7 +442,6 @@ export const projects = [
     image: "/images/BookAndCome.webp",
     tags: ["React", "Recoil", "React-Router-Dom"],
     source: "https://github.com/Automedon/bookandcome",
-    visit: "https://bookandcome.netlify.app/popular",
     id: 26
   },
   {

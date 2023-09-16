@@ -11,12 +11,12 @@ import {
   TagList,
   TitleContent,
   UtilityList,
-  Img,
+  Img
 } from "./ProjectsStyles";
 import {
   Section,
   SectionDivider,
-  SectionTitle,
+  SectionTitle
 } from "../../styles/GlobalComponents";
 import { projects } from "../../constants/constants";
 
@@ -45,7 +45,7 @@ const Projects = () => (
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks href={visit}>Site</ExternalLinks>
+              {visit && <ExternalLinks href={visit}>Site</ExternalLinks>}
               <ExternalLinks href={source}>Source</ExternalLinks>
             </UtilityList>
           </BlogCard>
