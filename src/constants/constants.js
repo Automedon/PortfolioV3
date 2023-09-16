@@ -466,8 +466,8 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: "Worked as a self-employed" },
-  { year: 2020, text: "Software Engineer" },
-  { year: 2021, text: "Senior Software Engineer" },
-  { year: 2022, text: "Lead Software Engineer" },
+  { year: 2020, text: "Software Engineer (Full time)" },
+  { year: 2021, text: "Senior Software Engineer (Full time)" },
+  { year: 2022, text: "Lead Software Engineer (Full time)" },
   { year: 2025, text: "Target to become Software Architect" }
 ];
