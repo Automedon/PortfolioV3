@@ -7,7 +7,7 @@ import {
 } from "../../styles/GlobalComponents";
 
 const Education = () => (
-  <Section id="tech">
+  <Section id="education">
     <SectionDivider divider />
     <SectionTitle>Education</SectionTitle>
     <SectionText>University of the People</SectionText>
