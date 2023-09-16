@@ -10,20 +10,20 @@ import {
   Div3,
   NavLink,
   SocialIcons,
-  Span,
+  Span
 } from "./HeaderStyles";
 
 const Header = () => (
   <Container>
     <Div1>
-      <Link href="/">
+      <Link href="/" legacyBehavior>
         <a
           href=""
           style={{
             display: "flex",
             alignItems: "center",
             color: "white",
-            marginBottom: "20px",
+            marginBottom: "20px"
           }}
         >
           <DiCssdeck size="3rem" />
@@ -33,27 +33,27 @@ const Header = () => (
     </Div1>
     <Div2>
       <li>
-        <Link href="#projects">
+        <Link href="#projects" legacyBehavior>
           <NavLink>Projects</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#education">
+        <Link href="#education" legacyBehavior>
           <NavLink>Education</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#tech">
+        <Link href="#tech" legacyBehavior>
           <NavLink>Tech</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#about">
+        <Link href="#about" legacyBehavior>
           <NavLink>About</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#contacts">
+        <Link href="#contacts" legacyBehavior>
           <NavLink>Contacts</NavLink>
         </Link>
       </li>
