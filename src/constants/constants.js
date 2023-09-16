@@ -8,7 +8,7 @@ export const projects = [
     tags: ["React", "Redux", "AntD"],
     source: "https://github.com/Automedon/crypto-app",
     visit: "https://automedon.github.io/crypto-app/",
-    id: 0,
+    id: 0
   },
   {
     title: "Real State App",
@@ -18,7 +18,7 @@ export const projects = [
     tags: ["React", "NextJs"],
     source: "https://github.com/Automedon/Real-Estate-App",
     visit: "https://real-estate-app-automedon.vercel.app/",
-    id: 0.1,
+    id: 0.1
   },
   {
     title: "Photo Share",
@@ -29,7 +29,7 @@ export const projects = [
     tags: ["React", "Sanity"],
     source: "https://github.com/Automedon/Social-Photo-Application",
     visit: "https://photoautomedon.netlify.app/",
-    id: 0.2,
+    id: 0.2
   },
   {
     title: "MERN Fronted Memories",
@@ -40,7 +40,7 @@ export const projects = [
     tags: ["React", "Redux", "Redux-Thunk", "axios"],
     source: "https://github.com/Automedon/mern-front",
     visit: "https://wizardly-curran-e24c83.netlify.app/",
-    id: 0.9,
+    id: 0.9
   },
   {
     title: "MERN Backend Memories",
@@ -51,7 +51,7 @@ export const projects = [
     tags: ["React", "Node", "Express", "MongoDB", "TS", "Mongoose"],
     source: "https://github.com/Automedon/mern-back",
     visit: "https://memories-automedon.herokuapp.com/",
-    id: 1,
+    id: 1
   },
   {
     title: "Pokedx",
@@ -60,7 +60,7 @@ export const projects = [
     tags: ["React", "MobX", "AntD", "Axios"],
     source: "https://github.com/Automedon/Pokedx",
     visit: "https://automedon.github.io/Pokedx/",
-    id: 1.1,
+    id: 1.1
   },
   {
     title: "Voice News",
@@ -71,7 +71,7 @@ export const projects = [
     tags: ["React", "Alan-Ai", "Alan-Voice", "Material-Ui"],
     source: "https://github.com/Automedon/Voice-News",
     visit: "https://automedon.github.io/Voice-News/",
-    id: 1.11,
+    id: 1.11
   },
   {
     title: "E-Commerce-Shop",
@@ -80,7 +80,7 @@ export const projects = [
     tags: ["React"],
     source: "https://github.com/Automedon/E-Commrece-Shop",
     visit: "https://automedon.github.io/E-Commrece-Shop/",
-    id: 1.2,
+    id: 1.2
   },
   {
     title: "Example of Code FullStack #1",
@@ -90,7 +90,7 @@ export const projects = [
     tags: ["React", "NextJS", "Apollo", "Graphql", "TS", "Mongoose", "Formik"],
     source: "https://github.com/Automedon/ExampleOfCode",
     visit: "https://car-yard.vercel.app/",
-    id: 1.3,
+    id: 1.3
   },
   {
     title: "Example of Code FullStack #2",
@@ -102,7 +102,7 @@ export const projects = [
     tags: ["React", "NextJS", "Apollo", "TS", "Sqlite3", "Formik"],
     source: "https://github.com/Automedon/nextjs-apollo-sqlite",
     visit: "https://github.com/Automedon/nextjs-apollo-sqlite",
-    id: 1.31,
+    id: 1.31
   },
   {
     title: "Example of Code FullStack #3",
@@ -114,7 +114,7 @@ export const projects = [
     tags: ["React", "NextJS", "Apollo", "Mongoose", "Formik", "Material-Ui"],
     source: "https://github.com/Automedon/Nextjs-Apollo-Material",
     visit: "https://nextjs-apollo-material.vercel.app/",
-    id: 1.32,
+    id: 1.32
   },
   {
     title: "Example of Code FullStack #4",
@@ -126,7 +126,7 @@ export const projects = [
     tags: ["React", "Apollo", "Graphql", "Mongoose", "JWT", "Express"],
     source: "https://github.com/Automedon/typeJWT",
     visit: "https://github.com/Automedon/typeJWT",
-    id: 1.321,
+    id: 1.321
   },
   {
     title: "Example of Code FrontEnd #1",
@@ -138,7 +138,7 @@ export const projects = [
     tags: ["React", "NextJS", "Apollo", "Graphql", "Formik", "Material-Ui"],
     source: "https://github.com/Automedon/Apollo-Nextjs-Typescript",
     visit: "https://automedon-pizza.vercel.app/",
-    id: 1.33,
+    id: 1.33
   },
   {
     title: "Example of Code FrontEnd #2",
@@ -150,7 +150,7 @@ export const projects = [
     tags: ["React", "Antd"],
     source: "https://github.com/Automedon/HugeDnDList",
     visit: "https://automedon.github.io/HugeDnDList/",
-    id: 1.34,
+    id: 1.34
   },
   {
     title: "Example of Code NestJS",
@@ -159,7 +159,7 @@ export const projects = [
     tags: ["NestJS", "PG", "Bcryptjs", "RxJs", "Sequelize", "TS"],
     source: "https://github.com/Automedon/Nestjs-CodeExample",
     visit: "https://github.com/Automedon/Nestjs-CodeExample",
-    id: 1.4,
+    id: 1.4
   },
   {
     title: "React Tetris",
@@ -169,7 +169,7 @@ export const projects = [
     tags: ["React", "TS", "Styled-Components"],
     source: "https://automedon.github.io/Tetris/",
     visit: "https://github.com/Automedon/Tetris",
-    id: 2,
+    id: 2
   },
   {
     title: "React Calendar",
@@ -178,7 +178,7 @@ export const projects = [
     tags: ["React"],
     source: "https://github.com/Automedon/react-calendar",
     visit: "https://automedon.github.io/react-calendar/",
-    id: 3,
+    id: 3
   },
   {
     title: "Simple React Cart",
@@ -187,7 +187,7 @@ export const projects = [
     tags: ["React"],
     source: "https://github.com/Automedon/shop-React",
     visit: "https://automedon.github.io/shop-React/",
-    id: 4,
+    id: 4
   },
   {
     title: "Tic-Toe",
@@ -196,7 +196,7 @@ export const projects = [
     tags: ["React", "Redux", "slick-carousel", "bootstrap"],
     source: "https://github.com/Automedon/React-Game",
     visit: "https://automedon.github.io/React-Game/",
-    id: 5,
+    id: 5
   },
   {
     title: "Stopwatch",
@@ -205,7 +205,7 @@ export const projects = [
     tags: ["React", "Redux"],
     source: "https://github.com/Automedon/Simple-Stopwatch",
     visit: "https://automedon.github.io/Simple-Stopwatch/",
-    id: 5.1,
+    id: 5.1
   },
   {
     title: "Dynamic Page",
@@ -214,7 +214,7 @@ export const projects = [
     tags: ["React"],
     source: "https://github.com/Automedon/dynamicPage",
     visit: "https://automedon.github.io/dynamicPage/",
-    id: 6,
+    id: 6
   },
   {
     title: "Apex tracker",
@@ -224,7 +224,7 @@ export const projects = [
     tags: ["React", "Express", "Heroku"],
     source: "https://github.com/Automedon/apextracker",
     visit: "https://dry-crag-95171.herokuapp.com/",
-    id: 6.1,
+    id: 6.1
   },
   {
     title: "Simple React Redux-Saga example",
@@ -235,7 +235,7 @@ export const projects = [
     tags: ["React", "Redux", "Redux-Saga"],
     source: "https://github.com/Automedon/Dog-Saga",
     visit: "https://automedon.github.io/Dog-Saga/",
-    id: 7,
+    id: 7
   },
   {
     title: "React Calculator",
@@ -245,7 +245,7 @@ export const projects = [
     tags: ["React", "Redux"],
     source: "https://github.com/Automedon/InternetCalc/blob/master/code.rar",
     visit: "https://automedon.github.io/InternetCalc/",
-    id: 8,
+    id: 8
   },
   {
     title: "React TodoList",
@@ -257,7 +257,7 @@ export const projects = [
     source:
       "https://github.com/Automedon/Mega-no-todolist/blob/master/newTodo.rar",
     visit: "https://automedon.github.io/Mega-no-todolist/",
-    id: 9,
+    id: 9
   },
   {
     title: "My old Portfolio",
@@ -266,7 +266,7 @@ export const projects = [
     tags: ["React", "Styled-Components", "NextJs"],
     source: "https://github.com/Automedon/Portfolio2",
     visit: "https://automedon.github.io/Portfolio2/",
-    id: 9.1,
+    id: 9.1
   },
   {
     title: "Gerund or/and Infinitive",
@@ -277,7 +277,7 @@ export const projects = [
     tags: ["React"],
     source: "https://github.com/Automedon/Gerund-and-Infinitive",
     visit: "https://automedon.github.io/Gerund-and-Infinitive/",
-    id: 10,
+    id: 10
   },
   {
     title: "Layout Merkury",
@@ -286,7 +286,7 @@ export const projects = [
     tags: ["React", "AntD", "Styled-Components"],
     source: "https://github.com/Automedon/Merkury",
     visit: "https://automedon.github.io/Merkury/",
-    id: 11,
+    id: 11
   },
   {
     title: "Game Count Down",
@@ -297,7 +297,7 @@ export const projects = [
     tags: ["React", "TS", "Redux"],
     source: "https://github.com/Automedon/CountDown",
     visit: "https://automedon.github.io/CountDown/",
-    id: 12,
+    id: 12
   },
   {
     title: "Simple Account",
@@ -308,7 +308,7 @@ export const projects = [
     tags: ["React", "Formik", "Redux", "Yup"],
     source: "https://automedon.github.io/DashBoard",
     visit: "https://github.com/Automedon/DashBoard",
-    id: 13,
+    id: 13
   },
   {
     title: "Photoshop Clone",
@@ -319,7 +319,7 @@ export const projects = [
     tags: ["React"],
     source: "https://github.com/Automedon/Photoshop-Clone",
     visit: "https://automedon.github.io/Photoshop-Clone/",
-    id: 14,
+    id: 14
   },
   {
     title: "Simple Piano",
@@ -330,7 +330,7 @@ export const projects = [
     tags: ["JavaScript", "CSS"],
     source: "https://github.com/Automedon/Piano",
     visit: "https://automedon.github.io/Piano/",
-    id: 15,
+    id: 15
   },
   {
     title: "Torronto Skate",
@@ -340,7 +340,7 @@ export const projects = [
     tags: ["React", "react-map-gl"],
     source: "https://github.com/Automedon/Mapbox-Skate-Torronto",
     visit: "https://automedon.github.io/Mapbox-Skate-Torronto/",
-    id: 16,
+    id: 16
   },
   {
     title: "Snake Game",
@@ -349,7 +349,7 @@ export const projects = [
     tags: ["JavaScript", "CSS"],
     source: "https://github.com/Automedon/Snake",
     visit: "https://automedon.github.io/Snake/",
-    id: 17,
+    id: 17
   },
   {
     title: "Card Quizzes Game",
@@ -359,7 +359,7 @@ export const projects = [
     tags: ["React", "TS", "Axios"],
     source: "https://github.com/Automedon/Cards-Quizes",
     visit: "https://automedon.github.io/Cards-Quizes/",
-    id: 18,
+    id: 18
   },
   {
     title: "Speed up your Typing",
@@ -368,7 +368,7 @@ export const projects = [
     tags: ["JavaScript", "CSS", "Fetch"],
     source: "https://github.com/Automedon/Speed-typing-random-quotes",
     visit: "https://automedon.github.io/Speed-typing-random-quotes/",
-    id: 19,
+    id: 19
   },
   {
     title: "JavaScript Calculator",
@@ -377,7 +377,7 @@ export const projects = [
     tags: ["JavaScript", "CSS", "Fetch"],
     source: "https://github.com/Automedon/JavaScript-Calculator",
     visit: "https://automedon.github.io/JavaScript-Calculator/",
-    id: 20,
+    id: 20
   },
   {
     title: "Rock Paper Scissors",
@@ -386,7 +386,7 @@ export const projects = [
     tags: ["React", "Styled-Components"],
     source: "https://github.com/Automedon/rockpaperscissors",
     visit: "https://automedon.github.io/rockpaperscissors/",
-    id: 20.1,
+    id: 20.1
   },
   {
     title: "Price cards",
@@ -395,7 +395,7 @@ export const projects = [
     tags: ["HTML", "CSS"],
     source: "https://github.com/Automedon/Price-Comparison-Design",
     visit: "https://automedon.github.io/Price-Comparison-Design/",
-    id: 21,
+    id: 21
   },
   {
     title: "Simple Text Adventure Game",
@@ -404,7 +404,7 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     source: "https://github.com/Automedon/Text-Adventure-Game",
     visit: "https://automedon.github.io/Text-Adventure-Game/",
-    id: 22,
+    id: 22
   },
   {
     title: "Random Advice",
@@ -414,7 +414,7 @@ export const projects = [
     tags: ["React", "TS"],
     source: "https://github.com/Automedon/Random-Advice-for-a-better-life",
     visit: "https://automedon.github.io/Random-Advice-for-a-better-life/",
-    id: 23,
+    id: 23
   },
   {
     title: "Food App Layout",
@@ -423,7 +423,7 @@ export const projects = [
     tags: ["React", "TS"],
     source: "https://github.com/Automedon/Random-Figma-Layout-1",
     visit: "https://automedon.github.io/Random-Figma-Layout-1/",
-    id: 24,
+    id: 24
   },
   {
     title: "Site Layout #1",
@@ -432,7 +432,7 @@ export const projects = [
     tags: ["React", "TS"],
     source: "https://github.com/Automedon/Random-Figma-Layout-2",
     visit: "https://automedon.github.io/Random-Figma-Layout-2/",
-    id: 25,
+    id: 25
   },
   {
     title: "Site Layout #2",
@@ -441,7 +441,7 @@ export const projects = [
     tags: ["React", "AntD", "Styled-Components"],
     source: "https://github.com/Automedon/Startuprr",
     visit: "https://automedon.github.io/Startuprr/",
-    id: 25.1,
+    id: 25.1
   },
   {
     title: "Book and Come",
@@ -450,7 +450,7 @@ export const projects = [
     tags: ["React", "Recoil", "React-Router-Dom"],
     source: "https://github.com/Automedon/bookandcome",
     visit: "https://bookandcome.netlify.app/popular",
-    id: 26,
+    id: 26
   },
   {
     title: "Codewars",
@@ -459,7 +459,7 @@ export const projects = [
     tags: ["JavaScript"],
     source: "https://github.com/Automedon/Codewars",
     visit: "https://github.com/Automedon/Codewars",
-    id: 27,
+    id: 27
   },
   {
     title: "cssbattle.dev",
@@ -468,11 +468,14 @@ export const projects = [
     tags: ["CSS", "HTML"],
     source: "https://github.com/Automedon/cssbattle.dev",
     visit: "https://github.com/Automedon/cssbattle.dev",
-    id: 28,
-  },
+    id: 28
+  }
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2020, text: "Joined a Big Company" },
+  { year: 2017, text: "Worked as a self-employed" },
+  { year: 2020, text: "Software Engineer" },
+  { year: 2021, text: "Senior Software Engineer" },
+  { year: 2022, text: "Lead Software Engineer" },
+  { year: 2025, text: "Target to become Software Architect" }
 ];

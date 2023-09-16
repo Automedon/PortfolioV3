@@ -3,12 +3,12 @@ import React from "react";
 import {
   Section,
   SectionText,
-  SectionTitle,
+  SectionTitle
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
 
-const Hero = (props) => (
+const Hero = props => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle>
@@ -16,8 +16,7 @@ const Hero = (props) => (
         Automedon Portfolio
       </SectionTitle>
       <SectionText>
-        I am a Senior Software Engineer with a focus on Frontend with
-        React/TypeScript.
+        Lead Software Engineer with a focus on Frontend with React/TypeScript.
       </SectionText>
       <Button
         onClick={() => (window.location = "https://github.com/Automedon")}

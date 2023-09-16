@@ -9,13 +9,13 @@ import {
   CarouselItemImg,
   CarouselItemText,
   CarouselItemTitle,
-  CarouselMobileScrollNode,
+  CarouselMobileScrollNode
 } from "./TimeLineStyles";
 import {
   Section,
   SectionDivider,
   SectionText,
-  SectionTitle,
+  SectionTitle
 } from "../../styles/GlobalComponents";
 import { TimeLineData } from "../../constants/constants";
 
@@ -67,15 +67,22 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a Senior Software Engineer with solid technical expertise in
-        React/Next.js/TypeScript following accepted best engineer practices like
-        SOLID, DRY, KISS, YAGNI. Also, on the backend side, I have experience
-        with Node.js/Nest.js/Databases. I am always ready to pass a technical
-        interview, so if you want to check my technical background, do not
-        hesitate and contact me. I like to be a developer and write code every
-        day. I have decent experience working in SCRUM, which is used for
-        managing software development. If you are required an experienced Senior
-        Software Engineer, contact me by contacts below.
+        Lead software engineer with more than 6 years of production experience.
+        Primary skills are developing and supporting web applications based on
+        Javascript stack and managing a development team. I have had substantial
+        experience with Javascript, Typescript, and React framework. I analyzed
+        customer requirements, created application architecture, managed the
+        team, and developed. Good team player with strong leadership experience.
+        I played a Development Team Lead role on my last project. Solid
+        technical expertise in React/Next.js/TypeScript following accepted best
+        engineer practices like SOLID, DRY, KISS, YAGNI. Also, on the backend
+        side, I have experience with Node.js/Nest.js/Databases. I am always
+        ready to pass a technical interview, so if you want to check my
+        technical background, do not hesitate and contact me. I like to be a
+        developer and write code every day. I have decent experience working in
+        SCRUM, which is used for managing software development. If you are
+        required an experienced Lead Software Engineer, contact me by contacts
+        below.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
@@ -88,7 +95,7 @@ const Timeline = () => {
                 index={index}
                 id={`carousel_item-${index}`}
                 active={activeItem}
-                onClick={(e) => handleClick(e, index)}
+                onClick={e => handleClick(e, index)}
               >
                 <CarouselItemTitle>
                   {year}
@@ -137,7 +144,7 @@ const Timeline = () => {
             key={index}
             index={index}
             active={activeItem}
-            onClick={(e) => handleClick(e, index)}
+            onClick={e => handleClick(e, index)}
             type="button"
           >
             <CarouselButtonDot active={activeItem} />
