@@ -1,12 +1,11 @@
 export const projects = [
   {
-    title: "Crypto App",
-    description:
-      "In this application you can check news about crypto-world and" +
-      " current exchanges",
-    image: "/images/Cryptoverse.webp",
-    tags: ["React", "Redux", "AntD"],
-    source: "https://github.com/Automedon/crypto-app",
+    title: "Portfolio v4",
+    description: "Automedon Portfolio v4",
+    image: "/images/Portfolio4.webp",
+    tags: ["Nextjs", "Sanity", "Shadcn"],
+    source: "https://github.com/Automedon/Nextjsexampleone",
+    visit: "https://nextjsexampleone.vercel.app/",
     id: 0
   },
   {
@@ -17,7 +16,7 @@ export const projects = [
     tags: ["React", "NextJs"],
     source: "https://github.com/Automedon/Real-Estate-App",
     visit: "https://real-estate-app-automedon.vercel.app/",
-    id: 0.1
+    id: 0.3
   },
   {
     title: "Photo Share",
@@ -28,7 +27,7 @@ export const projects = [
     tags: ["React", "Sanity"],
     source: "https://github.com/Automedon/Social-Photo-Application",
     visit: "https://photoautomedon.netlify.app/",
-    id: 0.2
+    id: 0.5
   },
   {
     title: "MERN Fronted Memories",
@@ -191,6 +190,16 @@ export const projects = [
     tags: ["React", "Redux", "slick-carousel", "bootstrap"],
     source: "https://github.com/Automedon/React-Game",
     visit: "https://automedon.github.io/React-Game/",
+    id: 5
+  },
+  {
+    title: "Crypto App",
+    description:
+      "In this application you can check news about crypto-world and" +
+      " current exchanges",
+    image: "/images/Cryptoverse.webp",
+    tags: ["React", "Redux", "AntD"],
+    source: "https://github.com/Automedon/crypto-app",
     id: 5
   },
   {
