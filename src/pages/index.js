@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import Acomplishments from "../components/Acomplishments/Acomplishments";
 import BgAnimation from "../components/BackgrooundAnimation/BackgroundAnimation";
 import Hero from "../components/Hero/Hero";
@@ -20,6 +21,7 @@ const Home = () => {
       <Technologies />
       <Timeline />
       <Acomplishments />
+      <Analytics />
     </Layout>
   );
 };
