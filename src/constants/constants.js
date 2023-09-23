@@ -140,7 +140,7 @@ export const projects = [
       "This is a code repository for an example of code FullStack" +
       " #2" +
       " with HugeDnDList where you can move one list under another ",
-    image: "/images/HugeDndList.webp",
+    image: "/images/HugeDnDList.webp",
     tags: ["React", "Antd"],
     source: "https://github.com/Automedon/HugeDnDList",
     visit: "https://automedon.github.io/HugeDnDList/",
